@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">androidSummer</string>
+    <string name="roll_dice">roll dice</string>
+    <string name="number">number</string>
 </resources>
